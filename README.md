@@ -1,16 +1,52 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi, I’m Oussama
+👨‍🎓 About Me
 
-<!--
-**akrate/akrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Oussama, a student at 1337 School (part of 42 Network), pursuing my path toward becoming a Software Engineer.
+I enjoy learning, building, and solving problems through programming.
 
-Here are some ideas to get you started:
+🚀 What I’m Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C & C++ (42 Common Core)
+
+Git & GitHub workflow
+
+Algorithms & problem solving
+
+Shell scripting
+
+Software engineering fundamentals
+
+🎯 My Goals
+
+Become a strong software engineer
+
+Complete the 42/1337 Common Core
+
+Build real-world projects
+
+Improve clean code & problem-solving skills
+
+💻 Tools & Technologies
+
+Linux / Shell
+
+C / C++
+
+Git & GitHub
+
+VSCode / Vim
+
+🌐 Socials:
+Discord
+
+💻 Tech Stack:
+CSS3 C C++ HTML5 Python JavaScript .Net .Net MySQL React Figma Canva GitHub Docker
+
+📊 GitHub Stats:
+
+
+
+
+
+
