@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![aoussama's 42 stats](https://badge.mediaplus.ma/greenbinary/aoussama)](https://github.com/oakoudad/badge42)
+
 👋 Hi, I'm Oussama<br>👨‍🎓 About Me<br><br>I’m Oussama, a student at 1337 School (part of 42 Network), pursuing my path toward becoming a Software Engineer.<br>I enjoy learning, building, and solving problems through programming.<br><br>🚀 What I'm Currently Learning<br><br>C & C++ (42 Common Core)<br><br>Git & GitHub workflow<br><br>Algorithms & problem solving<br><br>Shell scripting<br><br>Software engineering fundamentals<br><br>🎯 My Goals<br><br>Become a strong software engineer<br><br>Complete the 42/1337 Common Core<br><br>Build real-world projects<br><br>Improve clean code & problem-solving skills<br><br>💻 Tools & Technologies<br><br>Linux / Shell<br><br>C / C++<br><br>Git & GitHub<br><br>VSCode / Vim
 
 
